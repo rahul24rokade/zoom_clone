@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zoom_clone/static/css/main.3d5c44fc.chunk.css",
+    "main.js": "/zoom_clone/static/js/main.8335c857.chunk.js",
+    "main.js.map": "/zoom_clone/static/js/main.8335c857.chunk.js.map",
+    "runtime-main.js": "/zoom_clone/static/js/runtime-main.b7dc7f21.js",
+    "runtime-main.js.map": "/zoom_clone/static/js/runtime-main.b7dc7f21.js.map",
+    "static/js/2.ccf43f14.chunk.js": "/zoom_clone/static/js/2.ccf43f14.chunk.js",
+    "static/js/2.ccf43f14.chunk.js.map": "/zoom_clone/static/js/2.ccf43f14.chunk.js.map",
+    "index.html": "/zoom_clone/index.html",
+    "precache-manifest.57fac8cb8bda984124f9f18e9147048a.js": "/zoom_clone/precache-manifest.57fac8cb8bda984124f9f18e9147048a.js",
+    "service-worker.js": "/zoom_clone/service-worker.js",
+    "static/css/main.3d5c44fc.chunk.css.map": "/zoom_clone/static/css/main.3d5c44fc.chunk.css.map",
+    "static/js/2.ccf43f14.chunk.js.LICENSE.txt": "/zoom_clone/static/js/2.ccf43f14.chunk.js.LICENSE.txt",
+    "static/media/microphone.png": "/zoom_clone/static/media/microphone.ca145fad.png",
+    "static/media/webcam.png": "/zoom_clone/static/media/webcam.39ab82df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7dc7f21.js",
+    "static/js/2.ccf43f14.chunk.js",
+    "static/css/main.3d5c44fc.chunk.css",
+    "static/js/main.8335c857.chunk.js"
+  ]
+}
